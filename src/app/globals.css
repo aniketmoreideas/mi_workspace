@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.black-btn {
+  @apply text-white bg-[#212121] rounded-lg shadow-lg px-3 py-1;
+}

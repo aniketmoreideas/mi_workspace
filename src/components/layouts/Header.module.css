@@ -1,0 +1,7 @@
+.hometopbgbanner {
+    background-image: url('../../../public/images/homepage-top-banner.jpg');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    
+}
