@@ -22,23 +22,7 @@ const properties = [
         capacity: '2-8 people',
         size: '5,215 sf',
         image: '/images/beverly-hills.png',
-    },
-    {
-        location: 'Albany, NY',
-        address: '890 State St 7th Floor',
-        price: '$60/hour',
-        capacity: '2-8 people',
-        size: '5,215 sf',
-        image: '/images/beverly-hills.png',
-    },
-    {
-        location: 'Dallas, TX',
-        address: '8150 N Central Expy',
-        price: '$60/hour',
-        capacity: '2-8 people',
-        size: '5,215 sf',
-        image: '/images/beverly-hills.png',
-    },
+    }
 ];
 // console.log(properties[0].image);
 
